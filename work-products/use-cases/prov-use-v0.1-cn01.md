@@ -1,7 +1,7 @@
 ![OASIS Logo](https://docs.oasis-open.org/templates/OASISLogo-v3.0.png)
 
 # OASIS Committee Note
--------
+Lisa Bobbitt Fork to pull in D&TA use cases and add any new ones.
 
 # Provenance Use Cases Version 0.1
 
