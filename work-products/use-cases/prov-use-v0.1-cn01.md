@@ -5,9 +5,9 @@
 
 # Provenance Use Cases Version 0.1
 
-## Committee Note 01
+## Committee Note 02
 
-## 16 May 2025
+## 28 July 2025
 
 &nbsp;
 
