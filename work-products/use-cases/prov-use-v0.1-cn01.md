@@ -48,7 +48,7 @@ Duncan Sparrell, sFractal Consulting, duncan@sfractal.comn
 
 #### Related work:
 This document is related to:
-* fill in metadata spec
+* [Metadata Specification](https://github.com/LisaBobbitt/dps/blob/main/work-products/metadata-spec/prov.md#:~:text=prov.-,md,-use%2Dcases)
 
 #### Abstract:
 Data transparency is critical. 
